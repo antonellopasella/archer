@@ -1,0 +1,22 @@
+{
+  "name": "Archer-client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/antonellopasella/archer",
+  "authors": [
+    "Antonello Pasella <antonello.pasella@gmail.com>"
+  ],
+  "main": "src/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "faker": "~0.0.2"
+  }
+}
